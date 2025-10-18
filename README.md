@@ -42,11 +42,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/><br>
     <u>C</u>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
+      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/><br>
     <u>C++</u>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
+           <a href="https://www.python.org" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/><br>
     <u>Python</u>
   </a>
@@ -58,11 +58,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/><br>
     <u>HTML5</u>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/><br>
     <u>CSS3</u>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
+        <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="50" height="50"/><br>
     <u>Django</u>
   </a>
@@ -74,11 +74,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/><br>
     <u>MySQL</u>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
+      <a href="https://www.oracle.com/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/><br>
     <u>Oracle</u>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/><br>
     <u>PostgreSQL</u>
   </a>
@@ -90,11 +90,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/><br>
     <u>Pandas</u>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="50" height="50"/><br>
     <u>PyTorch</u>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
+        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="50" height="50"/><br>
     <u>TensorFlow</u>
   </a>
