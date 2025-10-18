@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakir Hussain Lone</h1>
+<br>
 <h3 align="center">Aspiring Python & Machine Learning Engineer</h3>
 
 <p align="center">
@@ -8,6 +9,9 @@
   <a href="https://www.linkedin.com/in/zakir-hussain-lone-75507a338/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
   <a href="mailto:lonezakir1326@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -19,25 +23,19 @@
 ---
 
 ## 🔹 About Me
-- 🌱 Currently learning **Python, Machine Learning, Deep Learning & Django**  
-- 💻 Passionate about solving problems with code  
+
+- 🌱 Currently learning **Python, Machine Learning, Deep Learning & Django**
+  
+- 💻 Passionate about solving problems with code
+  
 - 😄 **Fun Fact:** Jack-of-all-trades, master of… still figuring that out 😅
 
----
 
-## 🛠️ Technical Skills
-
-| Languages | Frameworks & Tools | Data & ML |
-|-----------|------------------|-----------|
-| 🐍 Python | Django | Pandas, NumPy, Matplotlib, Seaborn |
-| 💻 C++ & C | HTML, CSS, JS | Scikit-learn, PyTorch, TensorFlow |
-| 🗄️ SQL, PostgreSQL | Git, GitHub | Jupyter Notebook, Data Visualization |
-
----
 
 <h3 align="left">🖥️ Languages & Tools GUI</h3>
 
 <p align="left">
+  <!-- Languages -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/><br>C
   </a>&nbsp;&nbsp;&nbsp;
@@ -46,31 +44,37 @@
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/><br>Python
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/><br>HTML5
   </a>
 </p>
 
 <p align="left">
+  <!-- Web Development -->
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/><br>HTML5
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/><br>CSS3
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="60" height="60"/><br>Django
-  </a>&nbsp;&nbsp;&nbsp;
+  </a>
+</p>
+
+<p align="left">
+  <!-- Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="60" height="60"/><br>MySQL
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/><br>Oracle
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/><br>PostgreSQL
   </a>
 </p>
 
 <p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="60" height="60"/><br>PostgreSQL
-  </a>&nbsp;&nbsp;&nbsp;
+  <!-- Data Science / ML -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="60" height="60"/><br>Pandas
   </a>&nbsp;&nbsp;&nbsp;
@@ -94,6 +98,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakirlone1326&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
+<br>
 <p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakirlone1326&" alt="GitHub Streak" />
 </p>
@@ -107,4 +112,6 @@
 
 ---
 
+<p align="center">
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+</p>
