@@ -16,7 +16,7 @@
 ---
 
 ## 🔹 About Me
-- 🌱 Currently learning **Python, Machine Learning, Data Science & Django**  
+- 🌱 Currently learning **Python, Machine Learning, Deep Learning & Django**  
 - 💻 Passionate about solving problems with code  
 - 😄 **Fun Fact:** Jack-of-all-trades, master of… still figuring that out 😅
 
@@ -26,7 +26,7 @@
 
 | Languages | Frameworks & Tools | Data & ML |
 |-----------|------------------|-----------|
-| 🐍 Python | Django, Flask | Pandas, NumPy, Matplotlib, Seaborn |
+| 🐍 Python | Django | Pandas, NumPy, Matplotlib, Seaborn |
 | 💻 C++ & C | HTML, CSS, JS | Scikit-learn, PyTorch, TensorFlow |
 | 🗄️ SQL, PostgreSQL | Git, GitHub | Jupyter Notebook, Data Visualization |
 
@@ -41,7 +41,7 @@
 ---
 
 ## 📫 Contact Me
-- 📧 Email: lonezakir1326@gmail.com  
+📧 Email: [lonezakir1326@gmail.com](mailto:lonezakir1326@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/zakir-hussain-lone-75507a338](https://www.linkedin.com/in/zakir-hussain-lone-75507a338/)
 
 ---
