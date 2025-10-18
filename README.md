@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zakir Hussain Lone</h1>
 <br>
 <h3 align="center">Aspiring Python & Machine Learning Engineer</h3>
+<br>
 
 <p align="center">
   <a href="https://github.com/lonezakir1326">
@@ -10,6 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 <p align="center">
   <a href="mailto:lonezakir1326@gmail.com">
@@ -30,7 +32,7 @@
   
 - 😄 **Fun Fact:** Jack-of-all-trades, master of… still figuring that out 😅
 
-
+<br>
 
 <h3 align="left">🖥️ Languages & Tools GUI</h3>
 
@@ -49,8 +51,8 @@
     <u>Python</u>
   </a>
 </p>
-
-<p align="left">
+<br>
+<p align="center">
   <!-- Row 2: Web -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/><br>
@@ -65,8 +67,8 @@
     <u>Django</u>
   </a>
 </p>
-
-<p align="left">
+<br>
+<p align="right">
   <!-- Row 3: Databases -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/><br>
@@ -81,7 +83,7 @@
     <u>PostgreSQL</u>
   </a>
 </p>
-
+<br>
 <p align="left">
   <!-- Row 4: Data Science / ML -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
@@ -97,8 +99,8 @@
     <u>TensorFlow</u>
   </a>
 </p>
-
-<p align="left">
+<br>
+<p align="right">
   <!-- Row 5: ML Tools -->
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" align="center" style="text-align:center;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="50"/><br>
@@ -106,7 +108,6 @@
   </a>
 </p>
 
----
 
 ## 📊 GitHub Stats
 <p align="center">
